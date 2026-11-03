@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "org.videodepartment/agents",
+  "title": "Video Dept. AI",
+  "description": "Plan a video and script with VIDEO DEPT. in Fort Lauderdale, send a brief, book a call with Nikita.",
+  "version": "1.0.1",
+  "websiteUrl": "https://videodepartment.org/ai-assistant",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://agents.videodepartment.org/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/Maroosh1/video-dept-ai",
+    "source": "github"
+  }
+}
