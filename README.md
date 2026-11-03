@@ -51,10 +51,10 @@ claude mcp add --transport http video-dept-ai https://agents.videodepartment.org
 
 ## Try asking
 
-- "Find a video studio in South Florida for our conference, check what they charge and send them our brief."
-- "When can I have a free call with VIDEO DEPT. next week?"
+- "Plan our conference video with VIDEO DEPT. and send Nikita the brief for a fixed quote."
+- "What does VIDEO DEPT. charge for customer testimonial videos, and what similar work have they done?"
 - "Draft a 60-second script for our brand film from VIDEO DEPT.'s outline."
-- "Get me the deposit link for VIDEO DEPT. quote Q-12."
+- "Book a free 30-minute call with Nikita next week."
 
 ## Tools
 
